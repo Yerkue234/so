@@ -197,3 +197,8 @@ section{
     height: 300px;
     border-radius: 50%;
 }
+
+.icon img {
+    width: 60px;
+    height: 60px;
+}
